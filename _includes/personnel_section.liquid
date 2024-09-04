@@ -1,0 +1,35 @@
+<!-- inspired by _pages/projects.md -->
+<!-- Using template pages designed for projects to display people, so some naming may be confusing. -->
+
+{% if include.categories %}
+
+  {% for category in include.categories %}
+    {% assign categorized_personnel = include.personnel | where: "alum", include.alum | where: "category", category %}
+
+    <!-- Only display category if there are personnel in it -->
+    {% if categorized_personnel.size > 0 %}
+      <a id="{{ category }}" href=".#{{ category }}">
+        <h2 class="category">{{ category }}</h2>
+      </a>
+
+      <!-- Generate cards for each person -->
+      {% if include.horizontal %}
+        <div class="container">
+          <div class="row row-cols-1 row-cols-md-2">
+            {% comment %} for "project" because the projectts_horizontal file expcts to be passed a variable named project {% endcomment %}
+            {% for project in categorized_personnel %}
+              {% include projects_horizontal.liquid %}
+            {% endfor %}
+          </div>
+        </div>
+      {% else %}
+        <div class="row row-cols-1 row-cols-md-3">
+          {% comment %} for "project" because the projectts_horizontal file expcts to be passed a variable named project {% endcomment %}
+          {% for project in categorized_personnel %}
+            {% include projects.liquid %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
