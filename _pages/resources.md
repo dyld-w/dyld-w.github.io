@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /useful_links/
-title: Useful Links
+permalink: /Resources/
+title: Resources
 nav: true
 nav_order: 5
 ---
