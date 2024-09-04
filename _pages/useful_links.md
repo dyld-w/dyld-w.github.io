@@ -3,7 +3,7 @@ layout: page
 permalink: /useful_links/
 title: Useful Links
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ### For Lab Members

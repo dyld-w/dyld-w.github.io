@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Although we were required to transfer the copyright of some of the following articles to the publishers, we are allowed to distribute copies to individuals for personal and/or research use. Your click on any of the links below constitutes your request for a personal copy of the linked articles. A detailed copyright notice appears in the articles.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->

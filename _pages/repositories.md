@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: As one might guess given the name of the lab, we make use of quite a bit of custom software for our models and analyses. The language of choice is Python, which can easily call libraries written in other languages such as C or R. The following is a short list of some of the primary packages used or developed by the lab.
 nav: true
 nav_order: 4
