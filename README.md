@@ -2,7 +2,7 @@
 
 Below is a tl;dr of need-to-know information to contribute to the lab's site. For more in-depth information, the full table of contents from [the original template](https://github.com/alshedivat/al-folio) is included below the tl;dr.
 
-## tl;dr Bare Essentials:
+## tl;dr Bare Essentials
 
 **Quick Facts**
 
