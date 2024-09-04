@@ -2,9 +2,8 @@
 <!-- Using template pages designed for projects to display people, so some naming may be confusing. -->
 
 {% if include.categories %}
-
   {% for category in include.categories %}
-    {% assign categorized_personnel = include.personnel | where: "alum", include.alum | where: "category", category %}
+    {% assign categorized_personnel = include.personnel | where: 'alum', include.alum | where: 'category', category %}
 
     <!-- Only display category if there are personnel in it -->
     {% if categorized_personnel.size > 0 %}

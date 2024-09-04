@@ -2,10 +2,9 @@
 layout: page
 title: Per Sederberg
 description:
-img: 
+img:
 category: Director
 alum: false
 related_publications: false
-importance: 
+importance:
 ---
-

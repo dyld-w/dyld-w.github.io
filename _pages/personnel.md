@@ -2,7 +2,7 @@
 layout: page
 permalink: /personnel/
 title: Personnel
-description: 
+description:
 nav: true
 nav_order: 2
 display_categories: [Director, Postdoctoral Fellow, Graduate Student, Postbac Research Assistant, Undergraduate Research Assistant]
