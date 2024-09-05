@@ -35,7 +35,7 @@ Use [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-e
 For significant changes, it is best to establish a local development environment which is most easily done using a [dev container](https://containers.dev/) [in VSCode](https://code.visualstudio.com/docs/devcontainers/containers). The dev container specification is provided as part of the template, so the rest of the setup is as follows:
 
 1. [Install Docker](https://docs.docker.com/engine/install/).
-   1. Follow the instructions completely, including adding your user to the `docker` group if necessary.
+   1. Follow the instructions completely, including [adding your user to the `docker` group](https://docs.docker.com/engine/install/linux-postinstall/) if necessary.
 2. [Install VSCode](https://code.visualstudio.com/download).
 3. Install the [VSCode Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers).
 4. Clone this repository.
@@ -46,7 +46,7 @@ For significant changes, it is best to establish a local development environment
 8. Make any edits or changes, test them locally, and commit & push to main when ready, which will trigger an automatic redeployment of the published site.
 
 - [UVA Computational Memory Lab Website](#uva-computational-memory-lab-website)
-  - [tl;dr Bare Essentials:](#tldr-bare-essentials)
+  - [tl;dr Bare Essentials](#tldr-bare-essentials)
     - [Where to Edit What](#where-to-edit-what)
     - [Small Edits \& Updates](#small-edits--updates)
       - [Single Page](#single-page)
