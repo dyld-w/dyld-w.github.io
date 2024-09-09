@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Ashley Hoang
+title: Ashley Hoang
 description:
 img:
 category: Undergraduate Research Assistants

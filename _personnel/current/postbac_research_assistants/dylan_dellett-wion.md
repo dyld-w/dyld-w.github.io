@@ -1,6 +1,6 @@
 ---
 layout: about
-name: Dylan Dellett-Wion
+title: Dylan Dellett-Wion
 pronouns: he/him
 description: Postbac RA with a Background in Software Engineering
 img: assets/img/personnel/dylan_dellett-wion.jpg

@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Suraj Patel
+title: Suraj Patel
 description:
 img:
 category: Undergraduate Research Assistants

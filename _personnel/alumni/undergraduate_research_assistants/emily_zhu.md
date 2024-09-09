@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Emily Zhu
+title: Emily Zhu
 description:
 img:
 category: Undergraduate Research Assistants

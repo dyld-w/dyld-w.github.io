@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Srikar Gouru
+title: Srikar Gouru
 description:
 img:
 category: Undergraduate Research Assistants

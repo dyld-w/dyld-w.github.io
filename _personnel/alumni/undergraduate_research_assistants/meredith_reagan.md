@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Meredith Reagan
+title: Meredith Reagan
 description:
 img:
 category: Undergraduate Research Assistants

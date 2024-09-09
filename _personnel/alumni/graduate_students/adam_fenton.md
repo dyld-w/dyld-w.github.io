@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Adam W. Fenton
+title: Adam W. Fenton
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

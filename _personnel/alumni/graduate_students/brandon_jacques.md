@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Brandon G. Jacques
+title: Brandon G. Jacques
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

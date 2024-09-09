@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Adam E. Hasinki
+title: Adam E. Hasinki
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

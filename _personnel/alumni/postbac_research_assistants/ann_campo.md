@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Ann E. Campo
+title: Ann E. Campo
 description:
 img:
 category: Postbac Research Assistants

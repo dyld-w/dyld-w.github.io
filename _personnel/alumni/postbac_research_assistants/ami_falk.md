@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Ami Falk
+title: Ami Falk
 description:
 img:
 category: Postbac Research Assistants

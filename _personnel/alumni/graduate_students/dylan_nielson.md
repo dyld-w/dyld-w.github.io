@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Dylan M. Nielson
+title: Dylan M. Nielson
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

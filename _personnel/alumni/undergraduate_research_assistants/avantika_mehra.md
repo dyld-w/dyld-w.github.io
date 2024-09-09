@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Avantika Mehra
+title: Avantika Mehra
 description:
 img:
 category: Undergraduate Research Assistants

@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Collins Ssendawula
+title: Collins Ssendawula
 description:
 img:
 category: Undergraduate Research Assistants

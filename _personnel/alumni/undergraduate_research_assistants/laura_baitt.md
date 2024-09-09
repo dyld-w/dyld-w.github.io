@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Laura Baitt
+title: Laura Baitt
 description:
 img:
 category: Undergraduate Research Assistants

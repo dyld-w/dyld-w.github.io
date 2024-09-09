@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Michael J. Brockman
+title: Michael J. Brockman
 description:
 img:
 category: Postbac Research Assistants

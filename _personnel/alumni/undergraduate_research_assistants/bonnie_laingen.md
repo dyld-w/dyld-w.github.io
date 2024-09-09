@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Bonnie Laingen
+title: Bonnie Laingen
 description:
 img:
 category: Undergraduate Research Assistants

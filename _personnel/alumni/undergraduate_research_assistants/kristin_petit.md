@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Kristin Petit
+title: Kristin Petit
 description:
 img:
 category: Undergraduate Research Assistants

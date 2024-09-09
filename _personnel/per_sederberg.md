@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Per Sederberg
+title: Per Sederberg
 description:
 img:
 category: Director

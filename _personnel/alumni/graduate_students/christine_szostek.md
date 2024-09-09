@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Christine Szostek
+title: Christine Szostek
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

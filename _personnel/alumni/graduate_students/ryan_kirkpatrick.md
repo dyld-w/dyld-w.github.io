@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Ryan P. Kirkpatrick
+title: Ryan P. Kirkpatrick
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

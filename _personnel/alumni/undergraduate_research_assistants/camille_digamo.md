@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Camille Digamo
+title: Camille Digamo
 description:
 img:
 category: Undergraduate Research Assistants

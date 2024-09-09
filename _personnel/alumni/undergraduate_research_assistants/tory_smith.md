@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Tory Smith
+title: Tory Smith
 description:
 img:
 category: Undergraduate Research Assistants

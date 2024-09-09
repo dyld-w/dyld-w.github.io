@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Troy A. Smith
+title: Troy A. Smith
 description:
 img:
 category: Postdoctoral Fellows # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

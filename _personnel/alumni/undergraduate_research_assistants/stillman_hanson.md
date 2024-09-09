@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Stillman Hanson
+title: Stillman Hanson
 description:
 img:
 category: Undergraduate Research Assistants

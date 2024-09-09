@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Sarah Benson
+title: Sarah Benson
 description:
 img:
 category: Undergraduate Research Assistants
