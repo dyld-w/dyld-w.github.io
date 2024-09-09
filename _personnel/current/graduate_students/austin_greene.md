@@ -3,7 +3,7 @@ layout: page
 title: Austin M. Greene
 description:
 img:
-category: Graduate Student # Postdoctoral Fellow, Graduate Student, Postbac Research Assistant, Undergraduate Research Assistant
+category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants
 alum: false
 related_publications: false
 importance:

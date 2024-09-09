@@ -3,7 +3,7 @@ layout: page
 title: Libby Woodson
 description:
 img:
-category: Postbac Research Assistant # Postdoctoral Fellow, Graduate Student, Postbac Research Assistant, Undergraduate Research Assistant
+category: Postbac Research Assistants # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants
 alum: false
 related_publications: false
 importance:

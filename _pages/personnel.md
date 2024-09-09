@@ -5,7 +5,7 @@ title: Personnel
 description:
 nav: true
 nav_order: 2
-display_categories: [Director, Postdoctoral Fellow, Graduate Student, Postbac Research Assistant, Undergraduate Research Assistant]
+display_categories: [Director, Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants]
 horizontal: true
 ---
 
