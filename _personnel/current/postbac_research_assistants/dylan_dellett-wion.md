@@ -1,12 +1,18 @@
 ---
-layout: page
+layout: about
 title: Dylan Dellett-Wion
-description: Postbac RA with a background in software engineering
-img: assets/img/personnel/dylan-dellett-wion.jpg
+description: Postbac RA with a Background in Software Engineering
+img: assets/img/personnel/dylan_dellett-wion.jpg
 category: Postbac Research Assistants # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants
 alum: false
-related_publications: false
-importance:
+
+profile:
+  align: left
+  image: personnel/dylan_dellett-wion.jpg
 ---
 
-Foobar
+As a Postbac RA, my primary responsibility is to support the lab's work by developing and maintaining [the lab's software tools & libraries]({{ "/repositories" | relative_url }}), primarily [SMILE](https://github.com/compmem/smile). As part of CLAS '22, I graduated from UVA in December '21 with a Major in Cognitive Science with a concentration in Cognitive Psychology and a Minor in Computer Science. After graduation I worked as a software engineer for a small Charlottesville-based startup for a couple years before finding my way back to UVA to rejoin the CompMem Lab under Dr. Sederberg.
+
+##### Hobbies
+
+Mountain biking, playing soccer, sitting on my porch, snowboarding, visiting farmers markets
