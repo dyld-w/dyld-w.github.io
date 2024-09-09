@@ -16,7 +16,7 @@ As a Postbac RA, my primary responsibility is to support the lab's work by devel
 
 ##### Hobbies
 
-Mountain biking, playing soccer, sitting on my porch, snowboarding, visiting farmers markets
+Mountain biking, playing soccer, sitting on my porch, snowboarding, visiting farmers markets.
 
 #### Contact
 
