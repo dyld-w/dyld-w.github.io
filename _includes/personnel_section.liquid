@@ -15,7 +15,7 @@
       {% if include.horizontal %}
         <div class="container">
           <div class="row row-cols-1 row-cols-md-2">
-            {% comment %} for "project" because the projectts_horizontal file expcts to be passed a variable named project {% endcomment %}
+            {% comment %} for "project" because the projects_horizontal file expcts to be passed a variable named project {% endcomment %}
             {% for project in categorized_personnel %}
               {% include projects_horizontal.liquid %}
             {% endfor %}
@@ -23,7 +23,7 @@
         </div>
       {% else %}
         <div class="row row-cols-1 row-cols-md-3">
-          {% comment %} for "project" because the projectts_horizontal file expcts to be passed a variable named project {% endcomment %}
+          {% comment %} for "project" because the projects_horizontal file expcts to be passed a variable named project {% endcomment %}
           {% for project in categorized_personnel %}
             {% include projects.liquid %}
           {% endfor %}

@@ -547,6 +547,10 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
+  .pronouns {
+    font-size: 0.4em; /* Adjust the size as needed */
+    margin-left: 10px; /* Optional: Adds a small gap between the name and pronouns */
+  }
 }
 
 .post-list {

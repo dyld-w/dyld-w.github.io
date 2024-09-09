@@ -9,6 +9,9 @@ layout: default
         {{ site.last_name }}
       {% elsif page.collection == 'personnel' %}
         {{ page.name }}
+        {% if page.pronouns %}
+          <span class="pronouns">({{ page.pronouns }})</span>
+        {% endif %}
       {% else %}
         {{ site.title }}
       {% endif %}
