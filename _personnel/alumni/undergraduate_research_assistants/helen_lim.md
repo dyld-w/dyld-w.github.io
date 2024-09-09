@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Helen Lim
+name: Helen Lim
 description:
 img:
 category: Undergraduate Research Assistants

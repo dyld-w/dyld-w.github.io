@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anna M. Preston
+name: Anna M. Preston
 description:
 img:
 category: Postbac Research Assistants

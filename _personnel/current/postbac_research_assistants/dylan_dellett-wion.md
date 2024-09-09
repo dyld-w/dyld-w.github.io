@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Dylan Dellett-Wion
+name: Dylan Dellett-Wion
 description: Postbac RA with a Background in Software Engineering
 img: assets/img/personnel/dylan_dellett-wion.jpg
 category: Postbac Research Assistants # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

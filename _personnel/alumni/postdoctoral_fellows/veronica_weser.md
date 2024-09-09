@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Veronica Weser
+name: Veronica Weser
 description:
 img:
 category: Postdoctoral Fellows # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neha Chundu
+name: Neha Chundu
 description:
 img:
 category: Undergraduate Research Assistants

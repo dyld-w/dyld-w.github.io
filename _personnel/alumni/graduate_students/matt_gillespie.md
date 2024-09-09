@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matt J. Gillespie
+name: Matt J. Gillespie
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

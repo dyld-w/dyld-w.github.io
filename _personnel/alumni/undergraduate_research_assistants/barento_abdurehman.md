@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Barento Abdurehman
+name: Barento Abdurehman
 description:
 img:
 category: Undergraduate Research Assistants

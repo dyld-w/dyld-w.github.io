@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chris Pyper
+name: Chris Pyper
 description:
 img:
 category: Undergraduate Research Assistants

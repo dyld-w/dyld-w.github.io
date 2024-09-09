@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brian Siefke
+name: Brian Siefke
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

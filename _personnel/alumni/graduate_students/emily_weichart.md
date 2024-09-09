@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emily R. Weichart
+name: Emily R. Weichart
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

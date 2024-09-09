@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adam F. Osth
+name: Adam F. Osth
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

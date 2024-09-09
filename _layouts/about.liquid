@@ -7,8 +7,8 @@ layout: default
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
-      {% elsif page.collection %}
-        {{ page.title }}
+      {% elsif page.collection == 'personnel' %}
+        {{ page.name }}
       {% else %}
         {{ site.title }}
       {% endif %}

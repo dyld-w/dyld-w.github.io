@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chad Gossett
+name: Chad Gossett
 description:
 img:
 category: Postbac Research Assistants

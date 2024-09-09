@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gagan Dhaliwal
+name: Gagan Dhaliwal
 description:
 img:
 category: Undergraduate Research Assistants

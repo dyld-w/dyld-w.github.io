@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Christopher S. Hall
+name: Christopher S. Hall
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

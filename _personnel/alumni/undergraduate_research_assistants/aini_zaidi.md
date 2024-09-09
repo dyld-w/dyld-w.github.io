@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aini Zaidi
+name: Aini Zaidi
 description:
 img:
 category: Undergraduate Research Assistants

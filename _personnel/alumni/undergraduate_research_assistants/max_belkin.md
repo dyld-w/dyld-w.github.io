@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Max Belkin
+name: Max Belkin
 description:
 img:
 category: Undergraduate Research Assistants

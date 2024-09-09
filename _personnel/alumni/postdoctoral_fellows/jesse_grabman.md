@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jesse H. Grabman
+name: Jesse H. Grabman
 description:
 img:
 category: Postdoctoral Fellows # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants

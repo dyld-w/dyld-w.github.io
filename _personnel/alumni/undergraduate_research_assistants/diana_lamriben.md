@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diana Lamriben
+name: Diana Lamriben
 description:
 img:
 category: Undergraduate Research Assistants
