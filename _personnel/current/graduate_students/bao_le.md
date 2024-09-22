@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: about
 title: Bao Le
+pronouns:
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants
 alum: false
-related_publications: false
-importance:
+
+profile:
+  align:
+  image:
 ---

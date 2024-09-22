@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: about
 title: Per Sederberg
+pronouns: he/him
 description:
 img:
 category: Director
 alum: false
-related_publications: false
-importance:
+
+profile:
+  align:
+  image:
 ---

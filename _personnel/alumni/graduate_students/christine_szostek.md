@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: about
 title: Christine Szostek
+pronouns:
 description:
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants
 alum: true
-related_publications: false
-importance:
+
+profile:
+  align:
+  image:
 ---
