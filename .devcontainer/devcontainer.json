@@ -28,5 +28,6 @@
       }
     }
   },
+  "postCreateCommand": "npm install",
   "remoteUser": "vscode"
 }
