@@ -2,7 +2,7 @@
 layout: about
 title: Adam W. Fenton
 pronouns:
-description:
+description: Postdoctoral Fellow at the Air Force Research Laboratory
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants
 alum: true

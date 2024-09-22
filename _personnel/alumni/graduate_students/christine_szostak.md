@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Christine Szostek
+title: Christine Szostak
 pronouns:
-description:
+description: Assistant Professor of Psychology at Shorter University
 img:
 category: Graduate Students # Postdoctoral Fellows, Graduate Students, Postbac Research Assistants, Undergraduate Research Assistants
 alum: true
